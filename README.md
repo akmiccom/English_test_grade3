@@ -212,7 +212,51 @@ So, my dad drove me there.
 
 It's too far away to walk or fide my bike, so I go by train.
 
+## 2021-02
+
+### Reading
+
+### Speaking
+
+### Writing
+
+#### Question
+Which do you like better, hot weather or cold weather?
+
+#### Answer
+I like hot weather better. There are two reasons.
+First, I like to go swimming at the beach. 
+Second, I like to eat hot curry on hot summer days.
+
+私は暑い方が好きです。理由は2つあります。
+一つ目は、ビーチで泳ぐのが好きだからです。
+二つ目は、夏の暑い日に熱いカレーを食べるのが好きだからです。
+
+
 ## 2021-01
+
+### Reading
+
+### Speaking
+
+### Writing
+
+#### Question
+Where do you like to go shopping?
+
+#### Answer
+I like to go shopping at the mall. I have two reasons.
+First, The mall has a lot of shops, so I can buy many kind of items.
+Second, there are a lot of cafes, and I like coffee.
+
+私はショッピングモールに買い物に行くのが好きです。理由は2つあります。
+一つ目に、モールにはたくさんの店があります。多くの種類の商品を買うことができます。
+二つ目は、カフェがたくさんあります。私はコーヒーが好きです。
+
+添削版
+I like to go shopping at the mall. There are two reasons.
+First, there are many stores in malls, so I can buy many different things.
+Second, there are many cafes and I like coffee.
 
 #### No.4
 
