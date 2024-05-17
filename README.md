@@ -232,6 +232,60 @@ Second, I like to eat hot curry on hot summer days.
 一つ目は、ビーチで泳ぐのが好きだからです。
 二つ目は、夏の暑い日に熱いカレーを食べるのが好きだからです。
 
+#### No.3
+Is Uncle Jack goint to stay at our house tonight?
+Yes.
+Where will he sleep?
+
+#### No.4
+How was school today?
+Good.
+Did you show your teacher your social studies report?
+
+#### No.5
+Yes, he's faster than me.
+
+#### No.10
+Is it a picture of your mom?
+
+#### No.12
+You look sad, Billy.
+Yeah. I wanted to look at the stars tonight, but it's too cloudy.
+
+#### No.13
+Did you buy anything in Australia?
+I got a toy koala for my daughter and a T-shirt for my son.
+Didn't you get anything for yourself?
+Just this necktie.
+
+#### No.16
+Did you go to Harry's Music Hall on Friday night?
+Yeah, I saw a band called the Blue Dragon.
+Were they good?
+Yeah. They played some great songs.
+
+#### No.17
+Thanks for driving me home.
+No problem. Is your house on this street?
+Yes. Just stop the car outside that bank. I'll get out there.
+
+#### No.21
+My hasband and I had a party last Friday. We invited our
+friends and cooked lots of food. My brothers came, too,
+but I was angry with them because they were both late.
+
+#### No.23
+Have a look at our turtles and mice.
+
+#### No.26
+This spring, she'll go to German for two months
+to study at a university there.
+
+#### No.30
+Kana walked to the library this afternoon because she
+wanted to borrow a book about spiders. When she arrived there,
+she was surprised because it was closed.
+She'll go again tomorrow.
 
 ## 2021-01
 
@@ -315,6 +369,25 @@ She's going to be so surprised.
 On the third floor, there will be art classes for children from ten o'clock.
 
 ## 2020-03
+
+### Reading
+
+### Speaking
+
+### Writing
+
+#### Question
+Which do you like better, swimming or skiing?
+
+#### Answer
+I like swimming better. There are two reasons.
+First, I like to go swimming at the beach because I love the ocean.
+Second, I'm good at swimming and I can swim fast.
+
+私は水泳の方が好きです。理由は2つあります。
+一つ目は、ビーチで泳ぐのが好きだからです。海が大好きです。
+二つ目は、泳ぐのが得意だからです。速く泳ぐことができます。
+
 
 #### No.4
 
